@@ -1,0 +1,11 @@
+Workload Distribution:
+
+Rovana Emad: Select, Clear all, Delete, Bring to back/front
+
+Raya Ali: Add Figure, Load, Save, Change to Play, Add voice
+
+
+Farah Ahmed: Cut, Copy, Paste, Change Filler Color, Change Border Color
+
+
+Aya Abdel Nasser: Change to draw mode, Pick & Hide
